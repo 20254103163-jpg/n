@@ -1,0 +1,6 @@
+{
+  "name": "কথাকুঞ্জ — বাংলা গল্প ও টপিক ইঞ্জিন",
+  "description": "আবেগঘন বাংলা অডিও-স্টোরি, গ্রামীণ কথ্য ডায়ালগ, ভাইরাল টপিক এবং ৭-অধ্যায়ের সম্পূর্ণ স্ক্রিপ্ট তৈরির ক্রিয়েটর ইঞ্জিন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

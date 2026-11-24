@@ -1,0 +1,31 @@
+# Secrets & Environment
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+
+# Dependencies & Build Outputs
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+__pycache__/
+**/__pycache__/
+.aistudio/
+**/.aistudio/
+
+# Archives & Large Media Outputs
+*.zip
+demo_output/
+kathakunjo/output/
+
+# Non-pipeline / External Cloned Folders
+Animation-Tools/
+Awesome-Story-Generation/
+storyboarder/
+bangla-story-generator/
+
+# OS / Editor
+.DS_Store
+Thumbs.db

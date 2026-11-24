@@ -1,0 +1,6 @@
+{
+  "name": "Lanterns Over Rainbridge",
+  "description": "A real-time 2D animated short film crafted entirely with procedural code, inverse kinematics, Verlet cloth physics, and dynamic Canvas 2D lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
